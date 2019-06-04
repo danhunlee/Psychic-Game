@@ -1,5 +1,4 @@
 # Psychic-Game
-# Overview
 // In this homework, the goal is to make a guessing letter game. Make the computer to guess a word then the user will have number of guesses to make. If the user doesn't guess right eventually it will reset the function and start guessing again. 
 
 ## Body
